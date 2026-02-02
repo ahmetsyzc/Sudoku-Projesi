@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\bin\Debug\Sudoku Projesi.exe.config
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\bin\Debug\Sudoku Projesi.exe
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\bin\Debug\Sudoku Projesi.pdb
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku Projesi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku_Projesi.Form1.resources
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku_Projesi.Properties.Resources.resources
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku Projesi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku Projesi.exe
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku Projesi.pdb
+C:\Users\User\source\repos\Sudoku Projesi\Sudoku Projesi\obj\Debug\Sudoku_Projesi.Form2.resources
