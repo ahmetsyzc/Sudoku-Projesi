@@ -80,6 +80,32 @@ Bu kayıtlar uygulama içerisindeki diğer oyuncular ekranından görüntüleneb
 - Visual Studio
 - Git & GitHub
 
+## 📸 Ekran Görüntüleri
+
+### 🎮 Oyun Ekranı
+
+Sudoku oyununun zorluk seviyesi seçilerek başlatıldığı ana oyun ekranı.
+
+![Oyun Ekranı](Screenshots/oyun-ekrani.png)
+
+### ✅ Cevap Kontrolü
+
+CHECK özelliği ile girilen değerler kontrol edilir. Doğru değerler yeşil, yanlış değerler kırmızı olarak gösterilir.
+
+![Kontrol Ekranı](Screenshots/kontrol-ekrani.png)
+
+### 🧩 Otomatik Çözüm
+
+SEE THE ANSWER özelliği ile Sudoku bulmacasının çözümü otomatik olarak tamamlanabilir.
+
+![Sonuç Ekranı](Screenshots/sonuc-ekrani.png)
+
+### 📊 Oyuncu Sonuçları
+
+Tamamlanan oyunlara ait oyuncu adı, zorluk seviyesi, kontrol sayısı, bitirme süresi ve oynanma tarihi SQL Server veritabanında saklanır ve uygulama üzerinden görüntülenebilir.
+
+![Oyuncu Sonuçları](Screenshots/oyuncu-sonuclari.png)
+
 ## 📚 Projede Öğrendiklerim
 
 Bu proje ile birlikte;
